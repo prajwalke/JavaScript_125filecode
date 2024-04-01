@@ -1,2 +1,3 @@
-# svaha
-This is what nation need.#svaha
+# java_script with 125 files including notes 
+basic to advance java practice code
+
